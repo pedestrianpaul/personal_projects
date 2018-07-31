@@ -1,5 +1,5 @@
 # personal_projects
 
-`Langton's Ant (pointers & dynamically allocated arrays)`
+`Project 1: Langton's Ant (pointers & dynamically allocated arrays)`
 
-`Zoo (inheritance)`
+`Project 2: Zoo (inheritance)`
