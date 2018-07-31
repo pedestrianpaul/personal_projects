@@ -7,3 +7,5 @@
 `Project 3: Matrix Determinant Calculator (pointers and dynamically allocated memory)`
 
 `Project 4: Count Letters from Text File (I/O in C++)`
+
+`Project 5: Dice War Game (inheritance)
