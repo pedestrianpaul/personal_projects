@@ -9,3 +9,5 @@
 `Project 4: Count Letters from Text File (I/O in C++)`
 
 `Project 5: Dice War Game (inheritance)`
+
+`Project 6: University Student Information System (polymorphism)`
