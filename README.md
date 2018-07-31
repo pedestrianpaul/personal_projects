@@ -5,3 +5,5 @@
 `Project 2: Zoo (inheritance)`
 
 `Project 3: Matrix Determinant Calculator (pointers and dynamically allocated memory)`
+
+`Project 4: Count Letters from Text File (I/O in C++)
